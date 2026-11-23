@@ -1,0 +1,12 @@
+# Original downloaded data, report exports, and machine-specific paths
+skywatch_output/
+*.csv
+!sample/sample_synthetic_only.csv
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.bak
