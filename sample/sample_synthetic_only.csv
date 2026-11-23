@@ -1,0 +1,6 @@
+date,case_cad_event_number,call_type_original_desc,flight_duration_minutes,reason_for_flight,location,geocoded_location,analysis_neighborhood
+2026-06-01,261234567,,12,Criminal Investigation,General block A,GENERAL A,Mission
+2026-06-01,261234567,PERSON W/GUN,14,Criminal Investigation,General block B,GENERAL B,Mission
+2026-07-03,,,5,Training / Test,,,
+2025-06-02,0,SURVEILLANCE,1937,Criminal Investigation,General block C,GENERAL C,Tenderloin
+2024-10-01,241234567,MISC,21,Robbery,General block D,GENERAL D,South of Market
